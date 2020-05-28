@@ -1,0 +1,2 @@
+- Specific things you want to see in this lesson:
+  - Walkthrough of how to incorporate an API
